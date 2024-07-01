@@ -65,5 +65,8 @@ To add a new data source, create a new Python module and update data_collection.
 ### Logging
 Logs will be saved in data_collection.log file.
 
+## License
+This project is licensed under the GNU General Public License v3.0 License.
+
 ## Contact
 If you have any questions or feedback, feel free to reach out to alexliu0121@gmail.com.
