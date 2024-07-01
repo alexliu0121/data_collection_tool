@@ -18,24 +18,25 @@ This tool collects external data relevant to fertilizer inventory and demand pla
 - Requests==2.32.3
 
 ### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/alexliu0121/data_collection_tool.git
-cd data_collection_tool
-```
-2. Create a Virtual Environment
+1. Create a Virtual Environment
 It's recommended to use a virtual environment to manage dependencies.
 
 ```bash
 python -m venv venv
 source venv/bin/activate
 ```
+2. Clone the repository:
+```bash
+git clone https://github.com/alexliu0121/data_collection_tool.git
+cd data_collection_tool
+```
 3. Install the required libraries:
 ```bash
 pip install -r requirements.txt
 ```
-4. Configure the data sources in config.yaml:
-Update url for both economic_indicators and social_media_trends.
+4. Configure the data sources in config.yaml:<br>
+Update url for both economic_indicators and social_media_trends.<br>
+Set up the output directory and file type.<br>
 
 ### Usage
 Run the data collection script:
