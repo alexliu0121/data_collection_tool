@@ -11,7 +11,7 @@ This tool collects external data relevant to fertilizer inventory and demand pla
 ## Setup
 
 ### Prerequisites
-- Python 3.11.5
+- Python==3.11.5
 - beautifulsoup4==4.12.3
 - pandas==2.2.2
 - PyYAML==6.0.1
