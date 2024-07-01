@@ -49,7 +49,7 @@ The collected data will be saved in the data directory as specified in config.ya
 
 ## File Structure
 ```plaintext
-data_collection_tool/
+data_collection/
 ├── config.yaml # Configuration file for data sources and parameters
 ├── data_collection.py # Main script to initiate data collection
 ├── economic_indicators.py # Script to scrape economic indicators data from a website
