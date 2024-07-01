@@ -35,8 +35,8 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-4. Configure the data sources in config.yaml:
-Update url for both economic_indicators and social_media_trends.
+4. Configure the data sources in config.yaml:<br>
+Update url for both economic_indicators and social_media_trends. Set up the output directory and file type.
 
 ### Usage
 Run the data collection script:
