@@ -55,7 +55,8 @@ data_collection_tool/
 ├── economic_indicators.py # Script to scrape economic indicators data from a website
 ├── social_media_trends.py # Script to scrape social media trends data from a website
 ├── utils.py # Utility functions for saving data and setting up logging
-└── README.md # Project documentation
+├── README.md # Project documentation
+└── requirements.txt # List of project dependencies
 ```
 
 ### Extending The Tool
