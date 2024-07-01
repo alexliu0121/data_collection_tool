@@ -35,7 +35,8 @@ cd data_collection_tool
 pip install -r requirements.txt
 ```
 4. Configure the data sources in config.yaml:<br>
-Update url for both economic_indicators and social_media_trends. Set up the output directory and file type.
+Update url for both economic_indicators and social_media_trends.<br>
+Set up the output directory and file type.<br>
 
 ### Usage
 Run the data collection script:
